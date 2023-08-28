@@ -1,0 +1,1 @@
+{"title":"解压到同名文件夹","exe":"wscript","param":" //Nologo E:\\ASUS\\解压.vbs \"{path}\"","icon":"C:\\Windows\\System32\\wscript.exe,2","acceptExts":".zip .rar .7z","acceptDirectory":false,"acceptFile":true,"acceptMultipleFilesFlag":0,"pathDelimiter":"","paramForMultipleFiles":"","index":2}

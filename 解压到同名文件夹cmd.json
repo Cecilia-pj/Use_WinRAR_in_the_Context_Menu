@@ -1,0 +1,1 @@
+{"title":"解压到同名文件夹bat","exe":"cmd","param":"/c E:\\ASUS\\解压.bat \"{path}\"","icon":"\"C:\\Windows\\System32\\cmd.exe\",0","acceptExts":".zip .rar .7z","acceptDirectory":false,"acceptFile":true,"acceptMultipleFilesFlag":0,"pathDelimiter":"","paramForMultipleFiles":"","index":2}
